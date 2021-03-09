@@ -45,7 +45,7 @@
  22. Then after creating sucessfull request it will be checked by me and then merged
  23. Like this you will be able to  Learn about GIT-Basic 
  
- ## IF you like my efforts dont forget to get connected with me ON LinkedIn 
+ ## IF you like my efforts dont forget to get connected with me on LinkedIn & GIT-HUB !!
  https://www.linkedin.com/in/rohan-kulkarni-a6a886202/
 
     
