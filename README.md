@@ -2,6 +2,11 @@
   This is a small effort by me to teach some required things for using git-hub.
   I am not a PRO but Still as in Open Source Every Contribution counts !!!
   I know you will learn rest things by exploring it on your own !!!
+  
+   ## IF you like my efforts dont forget to get connected with me on LinkedIn & GIT-HUB OR Twitter !!
+ https://www.linkedin.com/in/rohan-kulkarni-a6a886202/<br>
+ https://twitter.com/rohank_2502
+ 
 ## Lets get Started !!!
 
 ## Objectives 
