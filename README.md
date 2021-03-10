@@ -16,10 +16,25 @@
 3. Must have Git-Hub Account 
 4. And thats it !!
 
-## Steps To be Followed 
+## Suggested Videos ( FREE ) 
+1.This is full GIT & GIT-HUB course by CODE WITH HARRY  https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi   
+2. If you are running short of time you can go with this course by Code with Harry its of duration 1 hr aprox https://youtu.be/gwWKnnCMQ5c   
+3. This is one course from CODE FOR CAUSE of approx 1 hour https://youtu.be/8pjxegUW7lQ<br>
+4. THis is one course from CODE FOR CAUSE of approx 15 mins https://youtu.be/4iDQ7CHHZZM
+
+## Why To Contribute Here After Learning From Experts ?
+1. As you have learnt from the much experienced persons than me its obvious you will this why should I waste time in contributing here !!
+2. And its prety Obvious I totally agree that 
+3. But just listen to me once and then think decision is  yours !!
+4. I have created this repo only for new learner who are doing there first PR on GIT-HUB 
+5. As doing changes in this repo will help them to gain confidance for making change in codebase of the projects.
+6. And in short  they will get familiar with the  flow of GIT-HUB
+7. So its my kind request please do a PR on this repo by following the steps given below !!
+
+## Steps To be Followed ( Expecting you have  watched suggested videos )
 1. Open this repo from the link provided to you or from my profile 
 2. As you see my name and then Name of repo it means that this project is mine ( In simple language )
-3. AS this project is mine you  cannot make changes in it for this you have to Fork and Clone this project in your own system 
+3. As this project is mine you  cannot make changes in it for this you have to Fork and Clone this project in your own system 
 4. There is fork option on Top right side of page click on that. ( Your Project is Forked )
 5. Then you will see green color code button click on that,you will see a link this link is used to clone our project in your local system with the help of gitbash
 6. I am providing the link her just copy the statement in brackets and paste it in git bash. Sometimes ctrl + V dont work there  so we can use right click of mouse.
@@ -45,8 +60,10 @@
  22. Then after creating sucessfull request it will be checked by me and then merged
  23. Like this you will be able to  Learn about GIT-Basic 
  
- ## IF you like my efforts dont forget to get connected with me on LinkedIn & GIT-HUB !!
- https://www.linkedin.com/in/rohan-kulkarni-a6a886202/
+ ## IF you like my efforts dont forget to get connected with me on LinkedIn & GIT-HUB OR Twitter !!
+ https://www.linkedin.com/in/rohan-kulkarni-a6a886202/<br>
+ https://twitter.com/rohank_2502
+ 
 
     
     
