@@ -31,6 +31,10 @@
 6. And in short  they will get familiar with the  flow of GIT-HUB
 7. So its my kind request please do a PR on this repo by following the steps given below !!
 
+## I have hosted a Git-Hub Page of this REPO you can see it by clicking the link <br>https://rohank2502.github.io/Learn-GITHUB/
+1. As you make suggested changes in code your name with remarks can also get added !! 
+2. Just to make it Intresting.
+
 ## Steps To be Followed ( Expecting you have  watched suggested videos )
 1. Open this repo from the link provided to you or from my profile 
 2. As you see my name and then Name of repo it means that this project is mine ( In simple language )
