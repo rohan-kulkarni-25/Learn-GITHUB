@@ -73,6 +73,22 @@
  https://www.linkedin.com/in/rohan-kulkarni-a6a886202/<br>
  https://twitter.com/rohank_2502
  
+ 
+ 
+### Congrats to these wonderful people who sucessfully merged their first PR !! ✨✨:
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/ rohank2502 /
+Learn-GITHUB/graphs/contributors">
+  				<a href="https://github.com/rohank2502/Learn-GITHUB/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rohank2502/Learn-GITHUB" />
+</a>
+			</a>
+		</td>
+	</tr>
+</table>
 
     
     
