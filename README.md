@@ -25,7 +25,7 @@
 1.This is full GIT & GIT-HUB course by CODE WITH HARRY  https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi   
 2. If you are running short of time you can go with this course by Code with Harry its of duration 1 hr aprox https://youtu.be/gwWKnnCMQ5c   
 3. This is one course from CODE FOR CAUSE of approx 1 hour https://youtu.be/8pjxegUW7lQ<br>
-4. THis is one course from CODE FOR CAUSE of approx 15 mins https://youtu.be/4iDQ7CHHZZM
+4. This is one course from CODE FOR CAUSE of approx 15 mins https://youtu.be/4iDQ7CHHZZM<br>
 5. Do refer Eddie Jaoude Youtube Channel !! This will give you idea about best practises in Open Source !! 
 
 ## Why To Contribute Here After Learning From Experts ?
