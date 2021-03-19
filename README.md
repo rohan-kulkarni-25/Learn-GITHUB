@@ -26,7 +26,7 @@
 2. If you are running short of time you can go with this course by Code with Harry its of duration 1 hr aprox https://youtu.be/gwWKnnCMQ5c   
 3. This is one course from CODE FOR CAUSE of approx 1 hour https://youtu.be/8pjxegUW7lQ<br>
 4. This is one course from CODE FOR CAUSE of approx 15 mins https://youtu.be/4iDQ7CHHZZM<br>
-5. Do refer Eddie Jaoude Youtube Channel !! This will give you idea about best practises in Open Source !! 
+5. Do refer [Eddie Jaoude Youtube Channel](http://youtube.com/eddiejaoude) !! This will give you idea about best practises in Open Source !! Free GitHub Bootcamp video https://www.youtube.com/watch?v=SYtPC9tHYyQ
 
 ## Why To Contribute Here After Learning From Experts ?
 1. As you have learnt from the much experienced persons than me its obvious you will this why should I waste time in contributing here !!
