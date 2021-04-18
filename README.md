@@ -52,7 +52,7 @@
 8. It means that its your code and you can make changes in it !!
 9. Then you have to open the index.html file 
 10. From this file you don't need to understand any code it's just an example of codebase.
-11. You have to click the eidt (pencil) option and 
+11. You have to click the edit (pencil) option and 
 12. You have to scroll down and you will get the below code 
 13. 
         <h3>No:-1</h3>
