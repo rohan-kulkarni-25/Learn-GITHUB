@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+greeting:
+runs-on: ubuntu-latest
+steps:
+- uses: actions/first-interaction@v1
+with:
+repo-token: ${{ secrets.GITHUB_TOKEN }}
+issue-message: "Hi👋 thanks for creating an issue on my Readme Profile !!, Will get back to you soon !! Your Contribution matters a lot for me ! "
+pr-message: "🎉Congratulations!!🎉 for making PR , I will review it soon !! Your Contribution matters a lot for me !"
