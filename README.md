@@ -77,3 +77,15 @@
 <li>That's It You have Succesfully Created a Pull Request</li>
 </ul>
 <hr>
+
+<h2 align="center">Connect with me  🤝🏻</h2>
+
+<div align="center">
+
+<p>
+<a href="https://www.linkedin.com/in/rohan-k-2502/" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/rohan_2502"><img alt="Twitter" src="https://img.shields.io/badge/rohan_2502-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
+</p>
+
+</div>
