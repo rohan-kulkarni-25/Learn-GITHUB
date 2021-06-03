@@ -2,7 +2,8 @@
 
 <h2 align="center">⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK </h2>
 <br>
-<h3>Let's learn the basic workflow of Contribution on Open Source Projects ! </h3>
+<h3>Let's learn the basic workflow of Contribution on Open Source Projects ! </h3> <br><hr>
+<h2>There is also a HANDS ON DEMO CHECK BELOW ! </h2>
 <hr><br>
 <h2>PREREQUISITES :-</h2>
 <ul>
@@ -77,7 +78,30 @@
 <li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
 </ul>
 <hr>
+<h2 align="center">HAND-ON DEMO</h2>
 
+<h3>As you have learned to fork, clone, make changes and also to push those changes and even we learned to create Pull request ! </h3><br>
+
+<h3>Now You have one Task to do !!</h3> 
+<h3>You have to create a issue. You will get option to create a issue as `Add Myself as Learner !!`</h3>  <br><h3>There is one file index.html you have to copy the text given below and paste the code in file !!</h3><br>
+
+<h3>After the src in image tag there is my username `rohan-kulkarni-25` In place of that you have to add your github username !! Make sure there is `.png` after you enter your username !! Also Enter you name In place of mine inside the `P` tag  !! Paste the edited content in index.html as per the sequence above the line `Paste here`</h3><br>
+
+<h3>You have to create a Pull Request and add `Fixes #IssueNumber` in description !! Issue number is the number of issue you created !</h3><br>
+
+<p>COPY THIS 👇🏻</p>
+
+`<div class="individual">`
+            `<div>`
+                `<img class="avatar" src="https://www.github.com/rohan-kulkarni-25.png">`
+                `<p class="name">Rohan Kulkarni</p>`
+            `</div>`
+`</div>`
+
+
+
+
+<hr>
 <h2 align="center">Connect with me  🤝🏻</h2>
 
 <div align="center">

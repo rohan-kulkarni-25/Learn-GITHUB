@@ -1,0 +1,51 @@
+.head{
+    text-align: center;
+    font-size: 5vmin;
+}
+
+.subhead{
+    text-align: center;
+    font-size: 3vmin;
+}
+
+.header{
+    background-color: skyblue;
+    padding: 2vmin;
+}
+
+.avatar{
+    width:40vmin;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+}
+
+body{
+    background-color: goldenrod;
+}
+
+
+
+
+.individual {
+    margin: 2vmin;
+    display: inline-flex ;
+    border-radius: 2vmin;
+    border: 3vmin;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
+    width: max-content;
+}
+
+
+
+.name{
+    font-size: 4vmin;
+    text-align: center;
+    background-color: white;
+    margin-top: 0%;
+     padding: 2vmin;
+     padding-bottom: 0;
+    margin-bottom: 0%;
+}
