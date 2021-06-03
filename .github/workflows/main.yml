@@ -1,2 +1,0 @@
-- name: Issue Comment Labeler
-  uses: Amwam/issue-comment-action@v1.3.1
