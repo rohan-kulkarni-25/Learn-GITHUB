@@ -46,6 +46,18 @@
 (In Place of link paste the link you copied)
 
 <li><h3>Project Cloned in System</h3></li>
+<li><h3>Run Command</h3></li>
+
+
+`git add remote upstream link`
+
+(In place of link paste the link of github account from where you folk the repository)
+
+<li><h3>Run Command</h3></li>
+
+``git remote -v
+
+<li><h3>This command will show you that where your repository lie(i.,e in your github account) and from where you folk the repository</h3></li>
 </ul><br>
 <hr><br>
 
@@ -53,6 +65,7 @@
 <ul>
 <img width="50%" align="center" src="vscode.png"><br><br>
 <li><h3>Don't  Forget to Pull Before making Commit this will avoid merge conflicts</h3></li>
+<li><h3>Avoid to make changes in master or main branch</h3></li>
 <li><h3>After Making certain amount of changes you can save the changes by `CTRL + S`  😅</h3></li>
 <li><h3>Stage the changes</h3></li><br>
 <img width="50%" align="center" src="stagechanges.png"><br>
