@@ -55,9 +55,17 @@
 
 <li><h3>Run Command</h3></li>
 
-``git remote -v
+`git remote -v
 
-<li><h3>This command will show you that where your repository lie(i.,e in your github account) and from where you folk the repository</h3></li>
+<li><h3>This command will show you that where your repository lie(i.,e in your github account) and from where you folk the repository 
+
+`git pull upstream BRANCH
+
+(write the main branch name in place of BRANCH )
+
+<li><h3>And help you to keep your Repo upto date with main repository</h3></li>
+ 
+
 </ul><br>
 <hr><br>
 
